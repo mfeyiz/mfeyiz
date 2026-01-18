@@ -16,10 +16,10 @@ I am a Computer Engineering student focused on the intersection of **Artificial 
 
 | Category | Technologies |
 | :--- | :--- |
-| **Cloud & AI** | Azure AI Services, Scikit-learn, Pandas |
+| **Cloud & AI** | Azure AI Services, Scikit-learn, XGBoost etc.  |
 | **Automation** | n8n, Webhooks, API Integration |
-| **Languages** | Python, C#, JavaScript, SQL, HTML/CSS |
-| **Development** | .NET Core MVC, Git, Docker, Linux (Arch) |
+| **Languages** | Python, C/C++, JavaScript, SQL|
+| **Development** | React, .NET Core/Spring MVC, Git, Docker, Linux (Arch) |
 
 ---
 
